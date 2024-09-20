@@ -35,7 +35,7 @@ I'm a passionate web developer based in Indonesia, always eager to learn and col
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhamarputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhamarputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamarputra&layout=compact&theme=algolia"/>
 </p>
 
