@@ -1,74 +1,56 @@
-## Hi 👋 My name is Dhamar Putra Pangestu
+# Hi 👋 I'm Dhamar Putra Pangestu
 
-- 🌍  I'm based in Indonesia
-- 🖥️  See my portfolio at [My Portfolio](http://dhamarputra.github.io/portfolio)
-- ✉️  You can contact me at [damarputra0191@gmail.com](mailto:damarputra0191@gmail.com)
-- 🤝  I'm open to collaborating on Interesting Projects
+I'm a passionate web developer based in Indonesia, always eager to learn and collaborate on interesting projects.
+
+- 🌍  Based in **Indonesia**
+- 🖥️  Check out my portfolio at [My Portfolio](http://dhamarputra.github.io/portfolio)
+- ✉️  Reach me at [damarputra0191@gmail.com](mailto:damarputra0191@gmail.com)
+- 🤝  Open to collaborating on **interesting projects** and learning opportunities
 
 ---
 
-### 🛠 Skills
+## 🛠️ My Skills
 
-#### Front-End
+### Front-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite" height="40" alt="Front-End Skills" />
 </div>
 
-#### Back-End
+### Back-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php,firebase,nodejs,js,py,mysql,laravel" height="40" alt="Back-End Skills" />
 </div>
 
-#### Multimedia
+### Multimedia
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=ps,ai" height="40" alt="Multimedia Skills" />
 </div>
 
-#### DevOps
+### DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=nginx,ubuntu" height="40" alt="DevOps Skills" />
 </div>
 
 ---
 
-### 🌐 Socials
-<p align="left"> 
-  <a href="https://www.github.com/dhamarputra" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/damarp_p" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhamar-putra-49aa60308/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhamarputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamarputra&layout=compact&theme=algolia"/>
 </p>
 
 ---
 
-### 📈 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dhamarputra/count.svg" />
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.github.com/dhamarputra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/damarp_p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/dhamar-putra-49aa60308/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ---
 
-### 📊 Github Statistics
+## 📈 Visitor Count
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhamarputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhamarputra&layout=compact&theme=algolia" />
+  <img src="https://profile-counter.glitch.me/dhamarputra/count.svg" alt="visitor badge"/>
 </p>
