@@ -3,7 +3,7 @@
 I'm a passionate web developer based in Indonesia, always eager to learn and collaborate on interesting projects.
 
 - 🌍  Based in **Indonesia**
-- 🖥️  Check out my portfolio at [My Portfolio](http://dhamarputra.github.io/portfolio)
+- 🖥️  Check out my portfolio at [My Portfolio](http://dhamarputra.github.io/portofolio)
 - ✉️  Reach me at [damarputra0191@gmail.com](mailto:damarputra0191@gmail.com)
 - 🤝  Open to collaborating on **interesting projects** and learning opportunities
 
