@@ -70,7 +70,7 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 ### 🎮 Contribution Space Shooter
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhamarputra/dhamarputra/main/game.gif" alt="Dhamar's Contribution Game" />
+  <img src="https://raw.githubusercontent.com/dhamarputra/dhamarputra/main/game.webp" alt="Dhamar's Contribution Game" />
 </p>
 
 ---
