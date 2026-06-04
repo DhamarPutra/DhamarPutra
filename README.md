@@ -14,16 +14,15 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 ---
 
-## 🚀 Featured Projects & Roles
-
-*   **PT Fujiwara Creative Solusindo** (Jul 2024 - Present)
-    *Founder & Owner / IT Consultant* | Managing end-to-end digital solutions, web development, UI/UX design, and IT consulting to align technology with business goals.
-*   **Siju-Shop, Pamulang University** (Jan 2026 - Present)
-    *Project Manager & Back End Developer* | Orchestrating a multiplatform e-commerce ecosystem (Web & Mobile), integrating secure payment gateways, and automated shipment APIs.
-*   **LabShare, Pamulang University** (Apr 2025 - Present)
-    *Project Manager & Full Stack Developer* | Leading the development of an e-commerce platform, streamlining transaction workflows and shipment tracking systems.
-*   **LUXBYINSOCIAL & LUXURYSTOCK, Paragon International** (Mar 2026 - Present)
-    *Project Manager & Full Stack Developer* | Designing high-performance web catalogs featuring custom CMS architectures and advanced UI/UX components to boost engagement and deployment speed.
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.github.com/dhamarputra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:damarputra0191@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dhamarputra/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
 ---
 
@@ -56,6 +55,19 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 ---
 
+## 🚀 Featured Projects & Roles
+
+*   **PT Fujiwara Creative Solusindo** (Jul 2024 - Present)
+    *Founder & Owner / IT Consultant* | Managing end-to-end digital solutions, web development, UI/UX design, and IT consulting to align technology with business goals.
+*   **Siju-Shop, Pamulang University** (Jan 2026 - Present)
+    *Project Manager & Back End Developer* | Orchestrating a multiplatform e-commerce ecosystem (Web & Mobile), integrating secure payment gateways, and automated shipment APIs.
+*   **LabShare, Pamulang University** (Apr 2025 - Present)
+    *Project Manager & Full Stack Developer* | Leading the development of an e-commerce platform, streamlining transaction workflows and shipment tracking systems.
+*   **LUXBYINSOCIAL & LUXURYSTOCK, Paragon International** (Mar 2026 - Present)
+    *Project Manager & Full Stack Developer* | Designing high-performance web catalogs featuring custom CMS architectures and advanced UI/UX components to boost engagement and deployment speed.
+
+---
+
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
@@ -67,22 +79,9 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhamarputra&theme=tokyonight" alt="Dhamar's Top Languages" />
 </p>
 
-### 🎮 Contribution Space Shooter
-
+### 🎮 Contribution Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhamarputra/dhamarputra/main/game.webp" alt="Dhamar's Contribution Game" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.github.com/dhamarputra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:damarputra0191@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dhamarputra/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@damarp_p" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 ---
