@@ -7,9 +7,9 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 - 🌍  Based in **Indonesia**
 - 🎓  Informatics Engineering Student at **Pamulang University** (GPA: 3.72/4.00)
-- 🏢  Founder & Owner at **PT Fujiwara Creative Solusindo**
+- 🏢  Founder & Owner at [**PT Fujiwara Creative Solusindo**](https://www.fujiwaracreative.my.id)
 - 🔬  Laboratory Assistant at **Pamulang University**
-- 🖥️  Check out my portfolio at [dhamarputra.github.io/portofolio](http://dhamarputra.github.io/portofolio)
+- 🖥️  Check out my portfolio at [www.fujiwaracreative.my.id/personal](https://www.fujiwaracreative.my.id/personal)
 - ✉️  Reach me at [damarputra0191@gmail.com](mailto:damarputra0191@gmail.com)
 
 ---
