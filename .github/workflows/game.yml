@@ -22,7 +22,16 @@ jobs:
 
       - name: Generate Space Shooter Game
         uses: czl9707/gh-space-shooter@v2
+        continue-on-error: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.webp'
           strategy: 'random' # Pola serangan musuh: column, row, random
+
+      - name: Commit & Push game.webp (Safe Fallback)
+        run: |
+          git config user.name 'DhamarPutra'
+          git config user.email 'damarputra0191@gmail.com'
+          git add game.webp
+          # Hanya commit dan push dengan rebase jika ada perubahan yang belum ter-push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update space shooter game GIF" && git pull --rebase origin main && git push)
