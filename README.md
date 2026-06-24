@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Kamis, 25 Juni 2026 04.03.14 UTC
-- WITA: Kamis, 25 Juni 2026 05.03.14 UTC
-- WIT: Kamis, 25 Juni 2026 06.03.14 UTC
+- WIB: Kamis, 25 Juni 2026 05.25.17 UTC
+- WITA: Kamis, 25 Juni 2026 06.25.17 UTC
+- WIT: Kamis, 25 Juni 2026 07.25.17 UTC
 
 
-"Im sorry my fault. I forgot youre an Idiot."
+"The size of your problems is nothing compared with your ability to solve them. Dont overestimate your problems and underestimate yourself."
 
-- attitude
+- motivational
 <!-- END_SECTION:quote -->
