@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Rabu, 24 Juni 2026 18.24.34 UTC
-- WITA: Rabu, 24 Juni 2026 19.24.34 UTC
-- WIT: Rabu, 24 Juni 2026 20.24.34 UTC
+- WIB: Rabu, 24 Juni 2026 20.33.45 UTC
+- WITA: Rabu, 24 Juni 2026 21.33.45 UTC
+- WIT: Rabu, 24 Juni 2026 22.33.45 UTC
 
 
-"It's not the size of the dog in the fight, but the size of the fight in the dog."
+"If you work just for money, you'll never make it, but if you love what you're doing and you always put the customer first, success will be yours."
 
-- motivational
+- success
 <!-- END_SECTION:quote -->
