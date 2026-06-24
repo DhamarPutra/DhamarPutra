@@ -71,10 +71,10 @@ async function ambilKutipan() {
 - WITA: ${tanggalDanWaktuWITA}
 - WIT: ${tanggalDanWaktuWIT}
 
-Kutipan Inspiratif:
+
 "${kutipan}"
 
-Kategori: ${kategori}`;
+-'${kategori}'`;
     } else {
       console.error('Gagal mendapatkan kutipan dari API');
       contentSection = `⏰ Diperbarui pada:
@@ -82,7 +82,7 @@ Kategori: ${kategori}`;
 - WITA: ${tanggalDanWaktuWITA}
 - WIT: ${tanggalDanWaktuWIT}
 
-Kutipan Inspiratif:
+
 Tidak dapat memuat kutipan saat ini.`;
     }
   } catch (error) {
@@ -92,7 +92,7 @@ Tidak dapat memuat kutipan saat ini.`;
 - WITA: ${tanggalDanWaktuWITA}
 - WIT: ${tanggalDanWaktuWIT}
 
-Kutipan Inspiratif:
+
 Tidak dapat memuat kutipan saat ini.`;
   }
 
