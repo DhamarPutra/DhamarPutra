@@ -74,7 +74,7 @@ async function ambilKutipan() {
 
 "${kutipan}"
 
--'${kategori}'`;
+- ${kategori}`;
     } else {
       console.error('Gagal mendapatkan kutipan dari API');
       contentSection = `⏰ Diperbarui pada:
