@@ -1,7 +1,7 @@
 # Hi 👋 I'm Dhamar Putra Pangestu
 
 <span align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Muchtar+Ali+👋;Passionate+Coder;Open+Source+Explorer;Code+•+Coffee+•+Repeat+☕💻;Lifelong+Learner;Writing+Clean+%26+Scalable+Code;Building+Useful+Things+for+the+Web;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Dhamar+👋;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Founder+of+PT+Fujiwara+Creative;Code+•+Coffee+•+Repeat+☕💻;Building+Scalable+Solutions" />
 </span>
 
 I am a Full Stack Developer with specialized expertise in DevOps and cloud infrastructure optimization. Currently studying Informatics Engineering at Pamulang University, I have a strong passion for building scalable web applications, managing databases, and designing robust system architectures. 
