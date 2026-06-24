@@ -1,0 +1,39 @@
+name: auto commit
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  push:
+    branches: main
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *' # Runs every 10 minutes
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Install Node-Fetch
+      run: npm install
+    - name: Update README.md
+      run: node index.js
+    - name: Commit & Push changes
+      run: |
+        git config user.name 'DhamarPutra'
+        git config user.email 'damarputra0191@gmail.com'
+        git add README.md
+        # Hanya commit dan push jika ada perubahan pada README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Jangan Lupa Follow https://www.instagram.com/damarp_p" && git push)

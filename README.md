@@ -1,5 +1,8 @@
 # Hi 👋 I'm Dhamar Putra Pangestu
-**Full Stack Developer & DevOps Specialist**
+
+<span align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Muchtar+Ali+👋;Passionate+Coder;Open+Source+Explorer;Code+•+Coffee+•+Repeat+☕💻;Lifelong+Learner;Writing+Clean+%26+Scalable+Code;Building+Useful+Things+for+the+Web;Problem+Solver" />
+</span>
 
 I am a Full Stack Developer with specialized expertise in DevOps and cloud infrastructure optimization. Currently studying Informatics Engineering at Pamulang University, I have a strong passion for building scalable web applications, managing databases, and designing robust system architectures. 
 
@@ -76,6 +79,10 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 </p>
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhamarputra&show_icons=true&count_private=true&theme=tokyonight" alt="Dhamar's GitHub Stats" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhamarputra&theme=tokyonight" alt="Dhamar's Top Languages" />
 </p>
 
@@ -90,3 +97,19 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhamarputra&label=Profile+Views&color=7aa2f7&style=flat-square" alt="visitor badge"/>
 </p>
+
+---
+
+<!-- START_SECTION:quote -->
+⏰ Diperbarui pada:
+- WIB: Rabu, 24 Juni 2026 14.56.49 GMT+7
+- WITA: Rabu, 24 Juni 2026 15.56.49 GMT+7
+- WIT: Rabu, 24 Juni 2026 16.56.49 GMT+7
+
+Kutipan Inspiratif:
+"Love is not only made for lovers. It is also made 4 true friends. A true friend can love more than a lover."
+
+Kategori: friendship
+<!-- END_SECTION:quote -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhamarputra&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" height="192px"></a>
