@@ -43,6 +43,7 @@ jobs:
           git config user.name 'DhamarPutra'
           git config user.email 'damarputra0191@gmail.com'
           git commit -am "Jangan Lupa Follow https://www.instagram.com/damarp_p"
+          git pull --rebase origin main
           git push || echo "No changes to push"
 
       # Display a simple confirmation message

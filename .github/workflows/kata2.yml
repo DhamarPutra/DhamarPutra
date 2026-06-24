@@ -36,4 +36,4 @@ jobs:
         git config user.email 'damarputra0191@gmail.com'
         git add README.md
         # Hanya commit dan push jika ada perubahan pada README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Jangan Lupa Follow https://www.instagram.com/damarp_p" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Jangan Lupa Follow https://www.instagram.com/damarp_p" && git pull --rebase origin main && git push)
