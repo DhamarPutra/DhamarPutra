@@ -8,7 +8,7 @@ on:
     branches: main
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *' # Runs every 10 minutes
+    - cron: '* */1 * * *' # Runs every 1 hours
 
 permissions:
   contents: write
