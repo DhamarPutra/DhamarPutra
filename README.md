@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Kamis, 25 Juni 2026 15.41.41 UTC
-- WITA: Kamis, 25 Juni 2026 16.41.41 UTC
-- WIT: Kamis, 25 Juni 2026 17.41.41 UTC
+- WIB: Kamis, 25 Juni 2026 18.22.55 UTC
+- WITA: Kamis, 25 Juni 2026 19.22.55 UTC
+- WIT: Kamis, 25 Juni 2026 20.22.55 UTC
 
 
-"You're going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you can't do it. If you do what is easy your life will be hard."
+"Don't get me wrong, there are sometimes if I go and see a really funny comedy, that I wished I had smoked a joint. I'll be honest with you. That's the truth."
 
-- motivational
+- funny
 <!-- END_SECTION:quote -->
