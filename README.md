@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Kamis, 25 Juni 2026 12.49.47 UTC
-- WITA: Kamis, 25 Juni 2026 13.49.47 UTC
-- WIT: Kamis, 25 Juni 2026 14.49.47 UTC
+- WIB: Kamis, 25 Juni 2026 15.41.41 UTC
+- WITA: Kamis, 25 Juni 2026 16.41.41 UTC
+- WIT: Kamis, 25 Juni 2026 17.41.41 UTC
 
 
-"A true friend unbosoms freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."
+"You're going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you can't do it. If you do what is easy your life will be hard."
 
-- friendship
+- motivational
 <!-- END_SECTION:quote -->
