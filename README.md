@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Jumat, 26 Juni 2026 01.26.00 UTC
-- WITA: Jumat, 26 Juni 2026 02.26.00 UTC
-- WIT: Jumat, 26 Juni 2026 03.26.00 UTC
+- WIB: Jumat, 26 Juni 2026 03.30.00 UTC
+- WITA: Jumat, 26 Juni 2026 04.30.00 UTC
+- WIT: Jumat, 26 Juni 2026 05.30.00 UTC
 
 
-"It is human nature to think wisely and act in an absurd fashion."
+"Two fundamentals of cool life  Walk like you are the king OR walk like you dont care ,who is the king."
 
-- nature
+- attitude
 <!-- END_SECTION:quote -->
