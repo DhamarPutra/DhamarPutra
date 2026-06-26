@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Jumat, 26 Juni 2026 12.57.38 UTC
-- WITA: Jumat, 26 Juni 2026 13.57.38 UTC
-- WIT: Jumat, 26 Juni 2026 14.57.38 UTC
+- WIB: Jumat, 26 Juni 2026 16.29.47 UTC
+- WITA: Jumat, 26 Juni 2026 17.29.47 UTC
+- WIT: Jumat, 26 Juni 2026 18.29.47 UTC
 
 
-"There is only one thing worse than fighting with allies and that is fighting without them."
+"The only place you find success before work is in the dictionary."
 
-- friendship
+- motivational
 <!-- END_SECTION:quote -->
