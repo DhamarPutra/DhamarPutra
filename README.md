@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Sabtu, 27 Juni 2026 03.11.43 UTC
-- WITA: Sabtu, 27 Juni 2026 04.11.43 UTC
-- WIT: Sabtu, 27 Juni 2026 05.11.43 UTC
+- WIB: Sabtu, 27 Juni 2026 04.40.23 UTC
+- WITA: Sabtu, 27 Juni 2026 05.40.23 UTC
+- WIT: Sabtu, 27 Juni 2026 06.40.23 UTC
 
 
-"I have never considered a difference of opinion in politics, in religion, in philosophy, as a cause for withdrawing from a friend."
+"Technology has become as ubiquitous as the air we breathe, so we are no longer conscious of its presence."
 
-- friendship
+- technology
 <!-- END_SECTION:quote -->
