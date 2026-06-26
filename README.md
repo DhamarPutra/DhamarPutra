@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Sabtu, 27 Juni 2026 04.40.23 UTC
-- WITA: Sabtu, 27 Juni 2026 05.40.23 UTC
-- WIT: Sabtu, 27 Juni 2026 06.40.23 UTC
+- WIB: Sabtu, 27 Juni 2026 05.49.11 UTC
+- WITA: Sabtu, 27 Juni 2026 06.49.11 UTC
+- WIT: Sabtu, 27 Juni 2026 07.49.11 UTC
 
 
-"Technology has become as ubiquitous as the air we breathe, so we are no longer conscious of its presence."
+"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
 
-- technology
+- success
 <!-- END_SECTION:quote -->
