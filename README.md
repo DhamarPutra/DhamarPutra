@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Jumat, 26 Juni 2026 21.37.04 UTC
-- WITA: Jumat, 26 Juni 2026 22.37.04 UTC
-- WIT: Jumat, 26 Juni 2026 23.37.04 UTC
+- WIB: Jumat, 26 Juni 2026 23.33.52 UTC
+- WITA: Sabtu, 27 Juni 2026 00.33.52 UTC
+- WIT: Sabtu, 27 Juni 2026 01.33.52 UTC
 
 
-"Smile in front of people who hate you Ur happiness kills them"
+"Two fundamentals of cool life  Walk like you are the king OR walk like you dont care ,who is the king."
 
 - attitude
 <!-- END_SECTION:quote -->
