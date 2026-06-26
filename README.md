@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Jumat, 26 Juni 2026 16.29.47 UTC
-- WITA: Jumat, 26 Juni 2026 17.29.47 UTC
-- WIT: Jumat, 26 Juni 2026 18.29.47 UTC
+- WIB: Jumat, 26 Juni 2026 18.59.22 UTC
+- WITA: Jumat, 26 Juni 2026 19.59.22 UTC
+- WIT: Jumat, 26 Juni 2026 20.59.22 UTC
 
 
-"The only place you find success before work is in the dictionary."
+"Friendship is the hardest thing in the world to explain. Its not something you learn in school. But if you havent learned the meaning of friendship you really havent learned anything."
 
-- motivational
+- friendship
 <!-- END_SECTION:quote -->
