@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Jumat, 26 Juni 2026 18.59.22 UTC
-- WITA: Jumat, 26 Juni 2026 19.59.22 UTC
-- WIT: Jumat, 26 Juni 2026 20.59.22 UTC
+- WIB: Jumat, 26 Juni 2026 21.37.04 UTC
+- WITA: Jumat, 26 Juni 2026 22.37.04 UTC
+- WIT: Jumat, 26 Juni 2026 23.37.04 UTC
 
 
-"Friendship is the hardest thing in the world to explain. Its not something you learn in school. But if you havent learned the meaning of friendship you really havent learned anything."
+"Smile in front of people who hate you Ur happiness kills them"
 
-- friendship
+- attitude
 <!-- END_SECTION:quote -->
