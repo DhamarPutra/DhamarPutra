@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Minggu, 28 Juni 2026 01.16.03 UTC
-- WITA: Minggu, 28 Juni 2026 02.16.03 UTC
-- WIT: Minggu, 28 Juni 2026 03.16.03 UTC
+- WIB: Minggu, 28 Juni 2026 02.47.32 UTC
+- WITA: Minggu, 28 Juni 2026 03.47.32 UTC
+- WIT: Minggu, 28 Juni 2026 04.47.32 UTC
 
 
-"Therefore, you are not training young people for the world of today and the world of tomorrow unless you are doing proven technology training. That is one of the reasons I'm so concerned."
+"Technology is not neutral."
 
 - technology
 <!-- END_SECTION:quote -->
