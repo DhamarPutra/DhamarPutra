@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Sabtu, 27 Juni 2026 22.56.07 UTC
-- WITA: Sabtu, 27 Juni 2026 23.56.07 UTC
-- WIT: Minggu, 28 Juni 2026 00.56.07 UTC
+- WIB: Minggu, 28 Juni 2026 00.06.25 UTC
+- WITA: Minggu, 28 Juni 2026 01.06.25 UTC
+- WIT: Minggu, 28 Juni 2026 02.06.25 UTC
 
 
-"My task, which I am trying to achieve is, by the power of the written word, to make you hear, to make you feel--it is, before all, to make you see."
+"The negative side of the American Dream comes when people pursue success at any cost, which in turn destroys the vision and the dream."
 
-- inspirational
+- success
 <!-- END_SECTION:quote -->
