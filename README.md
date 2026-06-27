@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Minggu, 28 Juni 2026 03.45.23 UTC
-- WITA: Minggu, 28 Juni 2026 04.45.23 UTC
-- WIT: Minggu, 28 Juni 2026 05.45.23 UTC
+- WIB: Minggu, 28 Juni 2026 04.45.38 UTC
+- WITA: Minggu, 28 Juni 2026 05.45.38 UTC
+- WIT: Minggu, 28 Juni 2026 06.45.38 UTC
 
 
-"Friends are like sunshine They can brighten up your day,A true friend is someone who Will chase the clouds away."
+"You create beauty with your attitude, your behaviours, and your actions. Its all up to you"
 
-- friendship
+- attitude
 <!-- END_SECTION:quote -->
