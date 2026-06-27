@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Sabtu, 27 Juni 2026 21.51.51 UTC
-- WITA: Sabtu, 27 Juni 2026 22.51.51 UTC
-- WIT: Sabtu, 27 Juni 2026 23.51.51 UTC
+- WIB: Sabtu, 27 Juni 2026 22.56.07 UTC
+- WITA: Sabtu, 27 Juni 2026 23.56.07 UTC
+- WIT: Minggu, 28 Juni 2026 00.56.07 UTC
 
 
-"When WORDS fail, eyes speak.When eyes fail,?HEART? speaks. When HEART fails, nothing speaks they put cotton in the nose"
+"My task, which I am trying to achieve is, by the power of the written word, to make you hear, to make you feel--it is, before all, to make you see."
 
-- funny
+- inspirational
 <!-- END_SECTION:quote -->
