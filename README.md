@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Minggu, 28 Juni 2026 18.21.32 UTC
-- WITA: Minggu, 28 Juni 2026 19.21.32 UTC
-- WIT: Minggu, 28 Juni 2026 20.21.32 UTC
+- WIB: Minggu, 28 Juni 2026 19.49.42 UTC
+- WITA: Minggu, 28 Juni 2026 20.49.42 UTC
+- WIT: Minggu, 28 Juni 2026 21.49.42 UTC
 
 
-"Technology is the fashion of the '90s. It affects everyone, and everyone is interested in it - either from fear of being left behind or because they have a real need to use technology."
+"Friendship is the only cement that will hold the world together."
 
-- technology
+- friendship
 <!-- END_SECTION:quote -->
