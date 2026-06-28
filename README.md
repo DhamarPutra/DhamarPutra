@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Minggu, 28 Juni 2026 16.30.38 UTC
-- WITA: Minggu, 28 Juni 2026 17.30.38 UTC
-- WIT: Minggu, 28 Juni 2026 18.30.38 UTC
+- WIB: Minggu, 28 Juni 2026 18.21.32 UTC
+- WITA: Minggu, 28 Juni 2026 19.21.32 UTC
+- WIT: Minggu, 28 Juni 2026 20.21.32 UTC
 
 
-"Success depends upon previous preparation, and without such preparation there is sure to be failure."
+"Technology is the fashion of the '90s. It affects everyone, and everyone is interested in it - either from fear of being left behind or because they have a real need to use technology."
 
-- success
+- technology
 <!-- END_SECTION:quote -->
