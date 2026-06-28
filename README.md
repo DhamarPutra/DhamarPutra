@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Senin, 29 Juni 2026 00.56.27 UTC
-- WITA: Senin, 29 Juni 2026 01.56.27 UTC
-- WIT: Senin, 29 Juni 2026 02.56.27 UTC
+- WIB: Senin, 29 Juni 2026 02.16.50 UTC
+- WITA: Senin, 29 Juni 2026 03.16.50 UTC
+- WIT: Senin, 29 Juni 2026 04.16.50 UTC
 
 
-"Not all of us can do great things. But we can do small things with great love."
+"The technology of the time dictated the way things looked."
 
-- inspirational
+- technology
 <!-- END_SECTION:quote -->
