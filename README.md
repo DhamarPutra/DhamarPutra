@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Senin, 29 Juni 2026 22.27.11 UTC
-- WITA: Senin, 29 Juni 2026 23.27.11 UTC
-- WIT: Selasa, 30 Juni 2026 00.27.11 UTC
+- WIB: Selasa, 30 Juni 2026 00.58.22 UTC
+- WITA: Selasa, 30 Juni 2026 01.58.22 UTC
+- WIT: Selasa, 30 Juni 2026 02.58.22 UTC
 
 
-"I'm in favor of any technology that makes my work available to the reading public at a reasonable price."
+"When i was born..Devil said..?Oh Shit..!! Competition?"
 
-- technology
+- attitude
 <!-- END_SECTION:quote -->
