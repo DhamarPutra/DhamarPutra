@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Senin, 29 Juni 2026 06.48.36 UTC
-- WITA: Senin, 29 Juni 2026 07.48.36 UTC
-- WIT: Senin, 29 Juni 2026 08.48.36 UTC
+- WIB: Senin, 29 Juni 2026 08.58.48 UTC
+- WITA: Senin, 29 Juni 2026 09.58.48 UTC
+- WIT: Senin, 29 Juni 2026 10.58.48 UTC
 
 
-"Success is a state of mind. If you want success, start thinking of yourself as a success."
+"Worry about your character, not your reputation. Your character is who you are, your reputation is who people think you are."
 
-- success
+- inspirational
 <!-- END_SECTION:quote -->
