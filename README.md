@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Senin, 29 Juni 2026 08.58.48 UTC
-- WITA: Senin, 29 Juni 2026 09.58.48 UTC
-- WIT: Senin, 29 Juni 2026 10.58.48 UTC
+- WIB: Senin, 29 Juni 2026 13.53.55 UTC
+- WITA: Senin, 29 Juni 2026 14.53.55 UTC
+- WIT: Senin, 29 Juni 2026 15.53.55 UTC
 
 
-"Worry about your character, not your reputation. Your character is who you are, your reputation is who people think you are."
+"The secret to success is to know something nobody else knows."
 
-- inspirational
+- success
 <!-- END_SECTION:quote -->
