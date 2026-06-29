@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Selasa, 30 Juni 2026 04.41.27 UTC
-- WITA: Selasa, 30 Juni 2026 05.41.27 UTC
-- WIT: Selasa, 30 Juni 2026 06.41.27 UTC
+- WIB: Selasa, 30 Juni 2026 05.40.43 UTC
+- WITA: Selasa, 30 Juni 2026 06.40.43 UTC
+- WIT: Selasa, 30 Juni 2026 07.40.43 UTC
 
 
-"Sharing is good, and with digital technology, sharing is easy."
+"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle"
 
-- technology
+- motivational
 <!-- END_SECTION:quote -->
