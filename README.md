@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Selasa, 30 Juni 2026 20.28.37 UTC
-- WITA: Selasa, 30 Juni 2026 21.28.37 UTC
-- WIT: Selasa, 30 Juni 2026 22.28.37 UTC
+- WIB: Selasa, 30 Juni 2026 23.07.20 UTC
+- WITA: Rabu, 1 Juli 2026 00.07.20 UTC
+- WIT: Rabu, 1 Juli 2026 01.07.20 UTC
 
 
-"It is human nature to think wisely and act in an absurd fashion."
+"Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself."
 
 - nature
 <!-- END_SECTION:quote -->
