@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Selasa, 30 Juni 2026 12.52.55 UTC
-- WITA: Selasa, 30 Juni 2026 13.52.55 UTC
-- WIT: Selasa, 30 Juni 2026 14.52.55 UTC
+- WIB: Selasa, 30 Juni 2026 15.53.08 UTC
+- WITA: Selasa, 30 Juni 2026 16.53.08 UTC
+- WIT: Selasa, 30 Juni 2026 17.53.08 UTC
 
 
-"For greed all nature is too little."
+"When i was born..Devil said..?Oh Shit..!! Competition?"
 
-- nature
+- attitude
 <!-- END_SECTION:quote -->
