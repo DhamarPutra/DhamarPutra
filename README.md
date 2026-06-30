@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Selasa, 30 Juni 2026 15.53.08 UTC
-- WITA: Selasa, 30 Juni 2026 16.53.08 UTC
-- WIT: Selasa, 30 Juni 2026 17.53.08 UTC
+- WIB: Selasa, 30 Juni 2026 18.37.59 UTC
+- WITA: Selasa, 30 Juni 2026 19.37.59 UTC
+- WIT: Selasa, 30 Juni 2026 20.37.59 UTC
 
 
-"When i was born..Devil said..?Oh Shit..!! Competition?"
+"At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents."
 
-- attitude
+- success
 <!-- END_SECTION:quote -->
