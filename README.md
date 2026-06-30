@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Selasa, 30 Juni 2026 06.40.22 UTC
-- WITA: Selasa, 30 Juni 2026 07.40.22 UTC
-- WIT: Selasa, 30 Juni 2026 08.40.22 UTC
+- WIB: Selasa, 30 Juni 2026 08.36.39 UTC
+- WITA: Selasa, 30 Juni 2026 09.36.39 UTC
+- WIT: Selasa, 30 Juni 2026 10.36.39 UTC
 
 
-"Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes."
+"We have more media than ever and more technology in our lives. It's supposed to help us communicate, but it has the opposite effect of isolating us."
 
-- inspirational
+- technology
 <!-- END_SECTION:quote -->
