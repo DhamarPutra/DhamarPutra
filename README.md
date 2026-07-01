@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Rabu, 1 Juli 2026 07.15.39 UTC
-- WITA: Rabu, 1 Juli 2026 08.15.39 UTC
-- WIT: Rabu, 1 Juli 2026 09.15.39 UTC
+- WIB: Rabu, 1 Juli 2026 11.55.55 UTC
+- WITA: Rabu, 1 Juli 2026 12.55.55 UTC
+- WIT: Rabu, 1 Juli 2026 13.55.55 UTC
 
 
-"My task, which I am trying to achieve is, by the power of the written word, to make you hear, to make you feel--it is, before all, to make you see."
+"People say me bad, trust me i am the worst!!!"
 
-- inspirational
+- attitude
 <!-- END_SECTION:quote -->
