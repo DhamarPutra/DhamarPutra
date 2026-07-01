@@ -102,12 +102,12 @@ In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Cre
 
 <!-- START_SECTION:quote -->
 ⏰ Diperbarui pada:
-- WIB: Rabu, 1 Juli 2026 06.00.01 UTC
-- WITA: Rabu, 1 Juli 2026 07.00.01 UTC
-- WIT: Rabu, 1 Juli 2026 08.00.01 UTC
+- WIB: Rabu, 1 Juli 2026 07.15.39 UTC
+- WITA: Rabu, 1 Juli 2026 08.15.39 UTC
+- WIT: Rabu, 1 Juli 2026 09.15.39 UTC
 
 
-"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'"
+"My task, which I am trying to achieve is, by the power of the written word, to make you hear, to make you feel--it is, before all, to make you see."
 
 - inspirational
 <!-- END_SECTION:quote -->
