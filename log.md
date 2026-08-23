@@ -1,3 +1,3 @@
-WIB: Sunday, 23 August 2026 06.22.52 UTC
-WITA: Sunday, 23 August 2026 07.22.52 UTC
-WIT: Sunday, 23 August 2026 08.22.52 UTC
+WIB: Sunday, 23 August 2026 08.35.05 UTC
+WITA: Sunday, 23 August 2026 09.35.05 UTC
+WIT: Sunday, 23 August 2026 10.35.05 UTC
