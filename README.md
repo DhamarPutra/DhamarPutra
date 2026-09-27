@@ -9,10 +9,11 @@ I am a Full Stack Developer with specialized expertise in DevOps and cloud infra
 In addition to my technical roles, I am the **Founder & Owner of PT Fujiwara Creative Solusindo**, a creative service-based business delivering end-to-end web development, UI/UX design, branding, and IT consulting solutions.
 
 - 🌍  Based in **Indonesia**
-- 🎓  Informatics Engineering Student at **Pamulang University** (GPA: 3.72/4.00)
+- 🎓  Computer Science Graduate at **Pamulang University** (GPA: 3.75/4.00)
 - 🏢  Founder & Owner at [**PT Fujiwara Creative Solusindo**](https://www.fujiwaracreative.my.id)
 - 🔬  Laboratory Assistant at **Pamulang University**
 - 🖥️  Check out my portfolio at [www.fujiwaracreative.my.id/personal](https://www.fujiwaracreative.my.id/personal)
+- 🖥️  Check out my profile at [**PT Fujiwara Creative Solusindo**](https://www.fujiwaracreative.my.id/@dhamar)
 - ✉️  Reach me at [damarputra0191@gmail.com](mailto:damarputra0191@gmail.com)
 
 ---
